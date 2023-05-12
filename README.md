@@ -125,3 +125,11 @@ Dạng 2 thì kết hợp cả text-to-speech → Xử lý data 2 loại
 - DL- CNN bth..
 
 ****Có nhiều loại dataset nhưng chủ yếu là English, các dataset chủ yếu là dạng synthetic fake, có tập H-voice là có cả synthetic lẫn imitation****
+
+# 8 Một số link tài liệu
+
+## Code:
+
+[1 - https://www.youtube.com/watch?v=_CtMdrkXxJA](https://www.youtube.com/watch?v=_CtMdrkXxJA)
+
+[2- Series cho audio music processing](https://www.youtube.com/watch?v=gp2wZqDoJ1Y&list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm)
